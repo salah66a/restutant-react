@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>react first app</h1>
+      <h1>react first app pages</h1>
     </div>
   );
 }
