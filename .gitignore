@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/GSG_React_Components_Task
 
 # testing
 /coverage
