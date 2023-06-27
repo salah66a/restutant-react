@@ -1,0 +1,19 @@
+.navbar{
+    background-color: black;
+    width: 70%;
+    height: 50px;
+    margin: auto;
+    position: relative;
+    top: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-list a{
+    margin: 0 40px;
+}

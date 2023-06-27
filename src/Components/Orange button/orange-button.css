@@ -1,0 +1,13 @@
+.orange-button button{
+    width: 180px;   
+    height:100%;
+    border: none;
+    cursor: pointer;
+    background-color: darkgoldenrod;
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: bold;
+}
+.orange-button {
+    height: 100%;
+}

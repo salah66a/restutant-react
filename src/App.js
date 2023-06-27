@@ -1,12 +1,10 @@
 import React from 'react';
 import './App.css';
-import Logo from './Components/logo/Logo';
+import HomeSection from "./Sections/Heme Section/homeSection"
 function App() {
   return (
     <div className="App">
-      <Logo/>
-      <Logo/>
-      <Logo/>
+      <HomeSection/>
     </div>
   );
 }
