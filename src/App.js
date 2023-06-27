@@ -1,10 +1,12 @@
-
+import React from 'react';
 import './App.css';
-
+import Logo from './Components/logo/Logo';
 function App() {
   return (
     <div className="App">
-      <h1>react first app pages</h1>
+      <Logo/>
+      <Logo/>
+      <Logo/>
     </div>
   );
 }
