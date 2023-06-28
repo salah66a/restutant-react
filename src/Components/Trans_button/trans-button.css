@@ -1,0 +1,10 @@
+.trans-button button{
+    background-color: transparent;
+    border: 2px solid white;
+    width: 220px;
+    height: 42px;
+    margin: 40px;
+    color: aliceblue;
+    font-size: large;
+    cursor: pointer;
+}

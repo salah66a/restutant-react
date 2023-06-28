@@ -1,0 +1,21 @@
+.about-section{
+  
+    width: 100%;
+    color: white;
+    
+}
+.about-section-content{
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.about-content{
+    width: 50%;
+}
+.about-image{
+    border: 2px solid rgb(79, 79, 205);
+}
+.about-content p{
+    margin: 40px 0;
+}

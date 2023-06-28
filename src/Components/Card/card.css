@@ -1,0 +1,36 @@
+.card img{
+    margin-bottom: 20px;
+    width: 100px;
+    height: 100px;
+    flex-shrink: 0;
+    
+}
+.card h4{
+    margin-bottom: 30px;
+    color: #FFFFFC;
+    text-align: center;
+    font-size: 24px;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 117.3%;
+    text-transform: capitalize;
+}
+.card p{
+    color: #FFFFFC;
+text-align: justify;
+font-size: 14px;
+font-family: Roboto;
+line-height: 155.3%;
+letter-spacing: 1.82px;
+text-transform: capitalize;
+}
+
+.card{
+    width: 350px;
+    height:450px;
+    border: 1px dashed #FFCE6D;
+    background: rgba(160, 128, 64, 0.30);
+    margin: 30px;
+    padding: 50px 30px;
+    
+ }

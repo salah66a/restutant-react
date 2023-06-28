@@ -1,0 +1,13 @@
+.special-section{
+    background-color: rgba(16, 20, 24, 0.70);
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 58px;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
