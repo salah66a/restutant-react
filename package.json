@@ -1,4 +1,5 @@
 {
+  "homepage": "https://salah66a.github.io/restutant-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -15,7 +16,7 @@
     "eject": "react-scripts eject",
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
-    "homepage": "https://salah66a.github.io/restutant-react/"
+   
   },
   "eslintConfig": {
     "extends": [
