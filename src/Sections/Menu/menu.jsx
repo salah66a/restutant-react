@@ -21,7 +21,7 @@ import imageItem12 from "../../Assets/images/menu/menu12.png"
 function Menu() {
   return (
       <Container>
-           <div className='menu'>
+           <section className='menu' id='#menu'>
             <SectionHeader headerText = "Straight From Kitchen"/>
             <H2Title title ="Our Menu"/> 
             <div className="menu-items">
@@ -39,7 +39,7 @@ function Menu() {
                 <Item imageItem = {imageItem12}name ="Pellentesque semper semper" details = "Lorem ipsum dolor sit amet" price = "15 RS"/>
       
             </div>
-    </div>
+    </section>
       </Container>
   )
 }

@@ -4,10 +4,10 @@ import HeroSection from "../Hero_section/heroSection"
 import "./home-section.css"
 function HomeSection() {
   return (
-    <div className='home-section'>
+    <section className='home-section'>
      <Navbar/>
      <HeroSection/>
-    </div>
+    </section>
   )
 }
 

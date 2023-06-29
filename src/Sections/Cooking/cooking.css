@@ -1,0 +1,25 @@
+.cooking-section{
+  
+    width: 100%;
+    color: white;
+    
+}
+.cooking-section-content{
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.cooking-content{
+    width: 50%;
+}
+.cooking-image{
+    border: 2px solid rgb(79, 79, 205);
+}
+.cooking-content p{
+    margin: 40px 0;
+}
+.cooking-image img{
+    width: 100%;
+    height: 100%;
+}

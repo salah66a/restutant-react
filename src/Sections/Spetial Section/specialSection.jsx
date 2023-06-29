@@ -9,7 +9,7 @@ import H2Title from "../../Components/H2 title/h2Title"
 
 function SpecialSection() {
   return (
-    <div className='special-section'>
+    <section className='special-section'>
         <SectionHeader headerText ="Special"/>
         <H2Title title ="What makes us special"/>
        
@@ -21,7 +21,7 @@ function SpecialSection() {
             <Card image ={skilledChef} title = "Skilled Chef" paragraph = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sollicitudin hendrerit a amet viverra. Nunc pretium in amet at mattis cras. "/>
            
         </div>
-    </div>
+    </section>
   )
 }
 

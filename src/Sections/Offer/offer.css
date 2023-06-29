@@ -1,0 +1,31 @@
+.title{
+    color: #FFFFFC;
+    text-align: center;
+    font-size: 36px;
+    font-family: "Dancing Script";
+    font-weight: 700;
+    letter-spacing: 3.6px;
+    margin: 20px;
+}
+.offer-percent{
+    color: #FFCE6D;
+    text-align: center;
+    font-size: 32px;
+    font-family: "Roboto";
+    font-weight: 800;
+    letter-spacing: 0.64px;
+}
+.offer-section{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background: rgba(16, 20, 24, 0.70);
+    
+}
+.offer-design-content{
+    align-items: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 30px;
+}

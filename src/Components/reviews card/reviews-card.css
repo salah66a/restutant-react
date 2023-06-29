@@ -1,0 +1,44 @@
+.avatar-name .avatar{
+    border-radius: 104px;
+    border: 1px solid #000;
+    width: 104px;
+    height: 98.327px;
+}
+.reviews-card{
+    width: 932px;
+    /* height: 300px; */
+    background: rgba(16, 20, 24, 0.70);
+    padding: 38px 58px;
+
+}   
+.avatar-name{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 50px;
+}
+.card-name{
+    color: #FFFFFC;
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 700;
+    line-height: 155.3%;
+    letter-spacing: 2.34px;
+    text-transform: capitalize;
+}
+.card-name img{
+    width: 60px;
+    height: 12px;
+}
+.card-name-stars{
+    text-align: left;
+}
+.reviews-card p{
+    color: #FFFFFC;
+    font-size: 16px;
+    font-family: "Roboto";
+    letter-spacing: 2.08px;
+    text-transform: capitalize;
+    text-align: left;
+    margin-top: 20px;
+}
