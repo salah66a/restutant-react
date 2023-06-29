@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77330492.css",
+    "main.js": "/static/js/main.8632829c.js",
+    "static/media/sections-image.png": "/static/media/sections-image.f1b1f9c4b7b79a707ded.png",
+    "static/media/hero-image.png": "/static/media/hero-image.bf8c28f91f4b02a4746e.png",
+    "static/media/cooking-image.png": "/static/media/cooking-image.008332069b16c5ddb5e4.png",
+    "static/media/about-image.png": "/static/media/about-image.c10474324dc75d140686.png",
+    "static/media/Golden Component .svg": "/static/media/Golden Component .4485e0e06604c6198588038098aec08b.svg",
+    "static/media/Ellipse.png": "/static/media/Ellipse.8cb30e3def7ea6c8c70c.png",
+    "static/media/menu10.png": "/static/media/menu10.8a0db2c95eb2e0faccbc.png",
+    "static/media/menu4.png": "/static/media/menu4.8a0db2c95eb2e0faccbc.png",
+    "static/media/menu3.png": "/static/media/menu3.3f32ea4d7fc9ebdc544d.png",
+    "static/media/menu7.png": "/static/media/menu7.3f32ea4d7fc9ebdc544d.png",
+    "static/media/menu2.png": "/static/media/menu2.28cd035f986ea146668d.png",
+    "static/media/menu6.png": "/static/media/menu6.28cd035f986ea146668d.png",
+    "static/media/menu11.png": "/static/media/menu11.3f80c93fada446548799.png",
+    "static/media/menu8.png": "/static/media/menu8.3f80c93fada446548799.png",
+    "static/media/menu1.png": "/static/media/menu1.c37dce5721f668bfa52d.png",
+    "static/media/menu5.png": "/static/media/menu5.c37dce5721f668bfa52d.png",
+    "index.html": "/index.html",
+    "main.77330492.css.map": "/static/css/main.77330492.css.map",
+    "main.8632829c.js.map": "/static/js/main.8632829c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77330492.css",
+    "static/js/main.8632829c.js"
+  ]
+}
